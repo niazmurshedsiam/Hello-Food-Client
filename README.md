@@ -1,19 +1,20 @@
-Project Name : Hello Food Project Site : https://hellofood-79643.web.app/
 
-           Project Work
-           
-Use card some text and bootstrap, material ui, react bootstrap and css and load data to mongodb database
 
-Buy button click at fast login route and private route use login to email access
+# Hello Food
 
-Order show product checkout and add product
-
-Meanningfull name
-
-Product add and delete
-
-.env and gitignore file use
-
-Sppiner use
-
-Website Responsive
+# [LIVE](https://hellofood-79643.web.app/)
+#[SERVER](https://github.com/niazmurshedsiam/Hello-Food-Server)
+A full-stack restaurant app where you can order your favorite food from the menu. You have options for breakfast, lunch, and dinner. Pay online using your credit card and enjoy the most delicious dummy food.
+### Features
+- Order food from the menu
+- Sign Up to place order
+- Pay online using your credit card
+### Technology
+- React
+- React Router
+- Bootstrap
+- Node.js
+- MongoDB
+- Firebase Authentication
+- Stripe.js
+- Heroku
